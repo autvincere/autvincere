@@ -1,11 +1,11 @@
 ![Alt text](img/banner.jpg?raw=true "Title")
 ---
-<p align="center">
+<h5 align="center">
 Soy diseñador de profesión pero desarrollador Javascript de oficio.
+</h5>
+<p align="center">
+Actualmente estoy perfeccionandome en React Js:fire: e iniciandome en el mundo de Node js:zap:
 </p>
-
-:zap: Actualmente estoy perfeccionandome en React Js 
-:fire: e iniciandome en el mundo de Node js
 <!--
 **autvincere/autvincere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
